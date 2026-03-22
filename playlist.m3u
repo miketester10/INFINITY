@@ -7,3 +7,6 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
 
 #EXTINF:-1 tvg-name="Un'ora fa" tvg-logo="https://example.com/logo.png",Un'ora fa
 https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://example.com/logo.png",Canale 5
+https://live03p-col.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest_hr.mpd
