@@ -10,3 +10,6 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 
 #EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://example.com/logo.png",Canale 5
 https://live03p-col.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest_hr.mpd
+
+#EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://example.com/logo.png",Rai 1
+https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/rai1_2400/exp=1774638545~acl=%2fhls%2flive%2f598308%2fraiuno1%2f*!%2fhls%2flive%2f598308-b%2fraiuno1%2f*!%2f*.key~data=hdntl~hmac=9ca54fb9cd52cb0c3f4b53abafb94accc05bc43539fa636b3bab615607bab941/chunklist.m3u8?aka_me_session_id=AAAAAAAAAADR1cZpAAAAAAcFNYpSHfQSbJV5G+o9Fkk6ac9TW3n+4ZsokhbqhSdTKUX3uahV22k9LlAI5K%2fprw4pQ3%2fiZVNQ&aka_media_format_type=hls
