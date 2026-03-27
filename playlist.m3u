@@ -7,9 +7,3 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
 
 #EXTINF:-1 tvg-name="Un'ora fa" tvg-logo="https://example.com/logo.png",Un'ora fa
 https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
-
-#EXTINF:-1 tvg-name="Primetime1" tvg-logo="https://example.com/logo.png",Primetime1
-https://live03p-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hr.mpd
-
-#EXTINF:-1 tvg-name="Primetime2" tvg-logo="https://example.com/logo.png",Primetime2
-https://live03p-col.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest_hr.mpd
