@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Regia 1" tvg-logo="https://example.com/logo.png",Regia 1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-name="Regia 2" tvg-logo="https://example.com/logo.png",Regia 2
-https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-name="Un'ora fa" tvg-logo="https://example.com/logo.png",Un'ora fa
-https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://example.com/logo.png",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
