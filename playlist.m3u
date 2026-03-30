@@ -7,3 +7,13 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
 
 #EXTINF:-1 tvg-name="Un'ora fa" tvg-logo="https://example.com/logo.png",Un'ora fa
 https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://example.com/logo.png",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://example.com/logo.png",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+
+#EXTINF:-1 tvg-name="Rai 1 TEST" tvg-logo="https://example.com/logo.png",Rai 1 TEST
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+
